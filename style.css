@@ -128,7 +128,7 @@ main {
     box-shadow: 0 0 4px #d4ecff;
     border-radius: 4px;
     cursor: pointer;
-    background-color: #000080;
+    background-color: #f3faff;
     overflow: hidden;
     transition: all 0.3s ease;
 }
